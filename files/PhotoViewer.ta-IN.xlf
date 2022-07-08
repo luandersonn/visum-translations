@@ -1,0 +1,1123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="ta-IN" original="PHOTOVIEWER/STRINGS/EN-US/CROPIMAGEVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6920.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="PHOTOVIEWER/STRINGS/EN-US/CROPIMAGEVIEWPAGE.RESW" datatype="resx">
+        <trans-unit id="AspectRatio16-9" translate="yes" xml:space="preserve">
+          <source>16:9 (Landscape)</source>
+          <target state="translated">16:9 (நிலைபரப்பு)</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">16:9 aspect ratio (ComboBox option)</note>
+        </trans-unit>
+        <trans-unit id="AspectRatio2-1" translate="yes" xml:space="preserve">
+          <source>2:1 (Tweet with 4 images)</source>
+          <target state="translated">2:1 (நான்குப் படிமங்களுடன் Tweet செய்க)</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">2:1 aspect ratio (ComboBox option)</note>
+        </trans-unit>
+        <trans-unit id="AspectRatio3-1" translate="yes" xml:space="preserve">
+          <source>3:1 (Twitter cover)</source>
+          <target state="translated">3:1 (கீச்சக அட்டை)</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">3:1 aspect ratio (ComboBox option)</note>
+        </trans-unit>
+        <trans-unit id="AspectRatio7-8" translate="yes" xml:space="preserve">
+          <source>7:8 (Tweet with 2 images)</source>
+          <target state="translated">7:8 (இரண்டு படங்களுடன் Tweet செய்க)</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">7:8 aspect ratio (ComboBox option)</note>
+        </trans-unit>
+        <trans-unit id="AspectRatio9-16" translate="yes" xml:space="preserve">
+          <source>9:16 (Portrait)</source>
+          <target state="translated">9:16 (உருவப்படம்)</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">9:16 aspect ratio (ComboBox option)</note>
+        </trans-unit>
+        <trans-unit id="AspectRatioComboBox.PlaceholderText" translate="yes" xml:space="preserve">
+          <source>Aspect ratio</source>
+          <target state="translated">தோற்ற விகிதம்</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Placeholder text of aspect ratio combobox</note>
+        </trans-unit>
+        <trans-unit id="AspectRatioCustom" translate="yes" xml:space="preserve">
+          <source>Custom</source>
+          <target state="translated">தனிப்பயன்</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Custom aspect ratio (ComboBox option)</note>
+        </trans-unit>
+        <trans-unit id="AspectRatioOriginal" translate="yes" xml:space="preserve">
+          <source>Original</source>
+          <target state="translated">அசல்</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Original aspect ratio (ComboBox option)</note>
+        </trans-unit>
+        <trans-unit id="AspectRatioSquare" translate="yes" xml:space="preserve">
+          <source>1:1 (Square)</source>
+          <target state="translated">1:1 (சதுரம்)</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">1:1 aspect ratio (ComboBox option)</note>
+        </trans-unit>
+        <trans-unit id="Titlebar.Title" translate="yes" xml:space="preserve">
+          <source>Crop</source>
+          <target state="new">Crop</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Crop page title</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+  <file datatype="xml" source-language="en-US" target-language="ta-IN" original="PHOTOVIEWER/STRINGS/EN-US/DIALOGS.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6920.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="PHOTOVIEWER/STRINGS/EN-US/DIALOGS.RESW" datatype="resx">
+        <trans-unit id="DeleteDialogCheckBox.Content" translate="yes" xml:space="preserve">
+          <source>Don't ask me again</source>
+          <target state="translated">மீண்டும் என்னை கேட்காதே</target>
+        </trans-unit>
+        <trans-unit id="DeleteFileDialog.PrimaryButtonText" translate="yes" xml:space="preserve">
+          <source>Delete</source>
+          <target state="translated">நீக்கு</target>
+        </trans-unit>
+        <trans-unit id="DeleteFileDialog.SecondaryButtonText" translate="yes" xml:space="preserve">
+          <source>Cancel</source>
+          <target state="translated">இரத்து</target>
+        </trans-unit>
+        <trans-unit id="DeleteFileDialog.Title" translate="yes" xml:space="preserve">
+          <source>Delete this file?</source>
+          <target state="translated">இந்தக் கோப்பை நீக்கவா?</target>
+        </trans-unit>
+        <trans-unit id="RenameDialog.PrimaryButtonText" translate="yes" xml:space="preserve">
+          <source>Rename</source>
+          <target state="translated">மறுபெயரிடு</target>
+        </trans-unit>
+        <trans-unit id="RenameDialog.SecondaryButtonText" translate="yes" xml:space="preserve">
+          <source>Close</source>
+          <target state="translated">மூடு</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+  <file datatype="xml" source-language="en-US" target-language="ta-IN" original="PHOTOVIEWER/STRINGS/EN-US/ERRORMESSAGES.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6920.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="PHOTOVIEWER/STRINGS/EN-US/ERRORMESSAGES.RESW" datatype="resx">
+        <trans-unit id="AccessToFileDenied" translate="yes" xml:space="preserve">
+          <source>Access to file denied</source>
+          <target state="translated">கோப்பிற்கு அணுகல் மறுக்கப்பட்டது</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Error message</note>
+        </trans-unit>
+        <trans-unit id="FileAlreadyExists" translate="yes" xml:space="preserve">
+          <source>There is already a file with the same name in this location</source>
+          <target state="new">There is already a file with the same name in this location</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Error message</note>
+        </trans-unit>
+        <trans-unit id="FileInvalidName" translate="yes" xml:space="preserve">
+          <source>This name is not valid</source>
+          <target state="translated">இந்தப் பெயர் செல்லாதது</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Error message</note>
+        </trans-unit>
+        <trans-unit id="FileNotFound" translate="yes" xml:space="preserve">
+          <source>The file does not exist</source>
+          <target state="translated">இந்தக் கோப்புக் கிடைக்கவில்லை</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Error message</note>
+        </trans-unit>
+        <trans-unit id="FileReadOnlyError" translate="yes" xml:space="preserve">
+          <source>The specified file is read only</source>
+          <target state="new">The specified file is read only</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Error message</note>
+        </trans-unit>
+        <trans-unit id="PropertyEditingNotAllowed" translate="yes" xml:space="preserve">
+          <source>This type of file does not allow property editing</source>
+          <target state="new">This type of file does not allow property editing</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Error message</note>
+        </trans-unit>
+        <trans-unit id="SomethingWentWrong" translate="yes" xml:space="preserve">
+          <source>Something went wrong</source>
+          <target state="translated">ஏதோ தவறாகிவிட்டது</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Error message</note>
+        </trans-unit>
+        <trans-unit id="SourceAndDestinationIsTheSame" translate="yes" xml:space="preserve">
+          <source>Source and destination file are the same</source>
+          <target state="translated">மூலம் மற்றும் இலக்கு கோப்பு ஒன்றே</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Error message</note>
+        </trans-unit>
+        <trans-unit id="TemporaryErrorMessage" translate="yes" xml:space="preserve">
+          <source>Try again in a little bit</source>
+          <target state="new">Try again in a little bit</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Error message</note>
+        </trans-unit>
+        <trans-unit id="TemporaryErrorTitle" translate="yes" xml:space="preserve">
+          <source>Temporary error</source>
+          <target state="translated">தற்காலிகப் பிழை</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Error message (title)</note>
+        </trans-unit>
+        <trans-unit id="NotSupportedOperation" translate="yes" xml:space="preserve">
+          <source>This file does not support this type of operation</source>
+          <target state="new">This file does not support this type of operation</target>
+        </trans-unit>
+        <trans-unit id="PrintServiceNotAvailableMessage" translate="yes" xml:space="preserve">
+          <source>The print service failed to print, please try again later or restart the app</source>
+          <target state="new">The print service failed to print, please try again later or restart the app</target>
+        </trans-unit>
+        <trans-unit id="PrintServiceNotAvailableTitle" translate="yes" xml:space="preserve">
+          <source>Print service is not available</source>
+          <target state="new">Print service is not available</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Error message (title)</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+  <file datatype="xml" source-language="en-US" target-language="ta-IN" original="PHOTOVIEWER/STRINGS/EN-US/GALLERYVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6920.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="PHOTOVIEWER/STRINGS/EN-US/GALLERYVIEWPAGE.RESW" datatype="resx">
+        <trans-unit id="DecrementThumbnailSizeButton.[using:Windows.UI.Xaml.Automation]AutomationProperties.Name" translate="yes" xml:space="preserve">
+          <source>Decrement thumbnail size</source>
+          <target state="new">Decrement thumbnail size</target>
+        </trans-unit>
+        <trans-unit id="DecrementThumbnailSizeButton.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
+          <source>Decrement thumbnail size</source>
+          <target state="new">Decrement thumbnail size</target>
+        </trans-unit>
+        <trans-unit id="IncrementThumbnailSizeButton.[using:Windows.UI.Xaml.Automation]AutomationProperties.Name" translate="yes" xml:space="preserve">
+          <source>Increment thumbnail size</source>
+          <target state="new">Increment thumbnail size</target>
+        </trans-unit>
+        <trans-unit id="IncrementThumbnailSizeButton.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
+          <source>Increment thumbnail size</source>
+          <target state="new">Increment thumbnail size</target>
+        </trans-unit>
+        <trans-unit id="MenuButton.[using:Windows.UI.Xaml.Automation]AutomationProperties.Name" translate="yes" xml:space="preserve">
+          <source>Access app options</source>
+          <target state="new">Access app options</target>
+        </trans-unit>
+        <trans-unit id="MenuButton.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
+          <source>Access app options</source>
+          <target state="new">Access app options</target>
+        </trans-unit>
+        <trans-unit id="MenuButtonLabel.Text" translate="yes" xml:space="preserve">
+          <source>Menu</source>
+          <target state="translated">மெனு</target>
+        </trans-unit>
+        <trans-unit id="MenuFlyoutExit.Text" translate="yes" xml:space="preserve">
+          <source>Exit</source>
+          <target state="translated">வெளியேறு</target>
+        </trans-unit>
+        <trans-unit id="MenuFlyoutOpenFolder.Text" translate="yes" xml:space="preserve">
+          <source>Open folder</source>
+          <target state="translated">கோப்புறையைத் திற</target>
+        </trans-unit>
+        <trans-unit id="MenuFlyoutOpenImage.Text" translate="yes" xml:space="preserve">
+          <source>Open image</source>
+          <target state="translated">படிமத்தைத் திற</target>
+        </trans-unit>
+        <trans-unit id="MenuFlyoutRefresh.Text" translate="yes" xml:space="preserve">
+          <source>Refresh</source>
+          <target state="translated">புதுப்பி</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Refresh photos list</note>
+        </trans-unit>
+        <trans-unit id="MenuFlyoutSettings.Text" translate="yes" xml:space="preserve">
+          <source>Settings</source>
+          <target state="translated">அமைப்புகள்</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+  <file datatype="xml" source-language="en-US" target-language="ta-IN" original="PHOTOVIEWER/STRINGS/EN-US/IMAGEEDITORVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6920.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="PHOTOVIEWER/STRINGS/EN-US/IMAGEEDITORVIEWPAGE.RESW" datatype="resx">
+        <trans-unit id="BlurSlider.Header" translate="yes" xml:space="preserve">
+          <source>Blur</source>
+          <target state="translated">மைக்கறை</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Header of the blur slider</note>
+        </trans-unit>
+        <trans-unit id="ContrastSlider.Header" translate="yes" xml:space="preserve">
+          <source>Contrast</source>
+          <target state="new">Contrast</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Header of the contrast slider</note>
+        </trans-unit>
+        <trans-unit id="ExposureSlider.Header" translate="yes" xml:space="preserve">
+          <source>Exposure</source>
+          <target state="new">Exposure</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Header of the exposure slider</note>
+        </trans-unit>
+        <trans-unit id="GrayscaleToggle.Content" translate="yes" xml:space="preserve">
+          <source>Grayscale</source>
+          <target state="new">Grayscale</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Grayscale effect - button text</note>
+        </trans-unit>
+        <trans-unit id="InvertToggle.Content" translate="yes" xml:space="preserve">
+          <source>Invert Colors</source>
+          <target state="new">Invert Colors</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Invert color effect - button text</note>
+        </trans-unit>
+        <trans-unit id="ResetButton.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
+          <source>Reset all effects</source>
+          <target state="new">Reset all effects</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Reset all effects button tooltip</note>
+        </trans-unit>
+        <trans-unit id="SaturationSlider.Header" translate="yes" xml:space="preserve">
+          <source>Saturation</source>
+          <target state="new">Saturation</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Header of the saturation slider</note>
+        </trans-unit>
+        <trans-unit id="SepiaSlider.Header" translate="yes" xml:space="preserve">
+          <source>Sepia</source>
+          <target state="new">Sepia</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Header of the sepia slider</note>
+        </trans-unit>
+        <trans-unit id="SliderResetValueButton.[using:Windows.UI.Xaml.Automation]AutomationProperties.Name" translate="yes" xml:space="preserve">
+          <source>Reset value to default</source>
+          <target state="new">Reset value to default</target>
+        </trans-unit>
+        <trans-unit id="SliderResetValueButton.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
+          <source>Reset</source>
+          <target state="translated">மீட்டமை</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Reset effect button tooltip</note>
+        </trans-unit>
+        <trans-unit id="TemperatureSlider.Header" translate="yes" xml:space="preserve">
+          <source>Temperature</source>
+          <target state="translated">வெப்பநிலை</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Header of the temperature slider</note>
+        </trans-unit>
+        <trans-unit id="TintSlider.Header" translate="yes" xml:space="preserve">
+          <source>Tint</source>
+          <target state="new">Tint</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Header of the tint slider</note>
+        </trans-unit>
+        <trans-unit id="Titlebar.Title" translate="yes" xml:space="preserve">
+          <source>Editor</source>
+          <target state="translated">திருத்தி</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Editor page title</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+  <file datatype="xml" source-language="en-US" target-language="ta-IN" original="PHOTOVIEWER/STRINGS/EN-US/RESIZEIMAGEVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6920.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="PHOTOVIEWER/STRINGS/EN-US/RESIZEIMAGEVIEWPAGE.RESW" datatype="resx">
+        <trans-unit id="HeightNumberBox.Header" translate="yes" xml:space="preserve">
+          <source>Height</source>
+          <target state="translated">உயரம்</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Height number box header</note>
+        </trans-unit>
+        <trans-unit id="HeightNumberBox.PlaceholderText" translate="yes" xml:space="preserve">
+          <source>Height</source>
+          <target state="translated">உயரம்</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Height number box placeholder</note>
+        </trans-unit>
+        <trans-unit id="KeepAspectRatioCheckBox.Content" translate="yes" xml:space="preserve">
+          <source>Keep aspect ratio</source>
+          <target state="translated">தோற்ற விகிதத்தை வைத்திரு</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Check box text</note>
+        </trans-unit>
+        <trans-unit id="NewTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>New</source>
+          <target state="translated">புதிய</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Resized file header</note>
+        </trans-unit>
+        <trans-unit id="OriginalTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Original</source>
+          <target state="translated">அசல்</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Original file header</note>
+        </trans-unit>
+        <trans-unit id="Titlebar.Title" translate="yes" xml:space="preserve">
+          <source>Resize</source>
+          <target state="translated">மறுஅளவிடு</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Resize image page title</note>
+        </trans-unit>
+        <trans-unit id="WidthNumberBox.Header" translate="yes" xml:space="preserve">
+          <source>Width</source>
+          <target state="translated">அகலம்</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Width number box header</note>
+        </trans-unit>
+        <trans-unit id="WidthNumberBox.PlaceholderText" translate="yes" xml:space="preserve">
+          <source>Width</source>
+          <target state="translated">அகலம்</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Width number box placeholder</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+  <file datatype="xml" source-language="en-US" target-language="ta-IN" original="PHOTOVIEWER/STRINGS/EN-US/RESOURCES.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6920.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="PHOTOVIEWER/STRINGS/EN-US/RESOURCES.RESW" datatype="resx">
+        <trans-unit id="AppDescription.Text" translate="yes" xml:space="preserve">
+          <source>A beautiful and fast photo viewer</source>
+          <target state="translated">ஒரு அழகான விரைவு படிம பார்வையாளர்</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">App description</note>
+        </trans-unit>
+        <trans-unit id="AppName.Text" translate="yes" xml:space="preserve">
+          <source>Visum Photo Viewer</source>
+          <target state="translated">Visum Photo Viewer</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">App title. (Alternative translation: Visum Photos)</note>
+        </trans-unit>
+        <trans-unit id="BackButton.[using:Windows.UI.Xaml.Automation]AutomationProperties.Name" translate="yes" xml:space="preserve">
+          <source>Back</source>
+          <target state="new">Back</target>
+        </trans-unit>
+        <trans-unit id="BackButton.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
+          <source>Back</source>
+          <target state="new">Back</target>
+        </trans-unit>
+        <trans-unit id="DragAndDropCaption" translate="yes" xml:space="preserve">
+          <source>Drop to open items</source>
+          <target state="new">Drop to open items</target>
+        </trans-unit>
+        <trans-unit id="DragAndDropMessage.Text" translate="yes" xml:space="preserve">
+          <source>Drag and drop folders and files here</source>
+          <target state="new">Drag and drop folders and files here</target>
+        </trans-unit>
+        <trans-unit id="ReplaceOriginalMenuFlyout.Text" translate="yes" xml:space="preserve">
+          <source>Replace original</source>
+          <target state="translated">அசலை மாற்றிடு</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">When modifying an image (such as cropping or resizing it), save the changes by overwriting the original file. Button text</note>
+        </trans-unit>
+        <trans-unit id="ResetButtonText.Text" translate="yes" xml:space="preserve">
+          <source>Reset</source>
+          <target state="translated">மீட்டமை</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Reset modifications to the image (like as filter effects or modifications to its attributes). Button text</note>
+        </trans-unit>
+        <trans-unit id="SaveAsMenuFlyout.Text" translate="yes" xml:space="preserve">
+          <source>Save as...</source>
+          <target state="translated">இவ்வாறு சேமி</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">"Save as..." button text</note>
+        </trans-unit>
+        <trans-unit id="SaveButton.[using:Windows.UI.Xaml.Automation]AutomationProperties.Name" translate="yes" xml:space="preserve">
+          <source>Save options</source>
+          <target state="new">Save options</target>
+        </trans-unit>
+        <trans-unit id="SaveButton.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
+          <source>Save options</source>
+          <target state="new">Save options</target>
+        </trans-unit>
+        <trans-unit id="SaveCopyButtonText.Text" translate="yes" xml:space="preserve">
+          <source>Save copy</source>
+          <target state="translated">நகல் சேமி</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">"Save copy" button text</note>
+        </trans-unit>
+        <trans-unit id="SuccessfullySavedMessage" translate="yes" xml:space="preserve">
+          <source>Successfully saved</source>
+          <target state="translated">வெற்றிகரமாகச் சேமிக்கப்பட்டது</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when a file is saved successfully</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+  <file datatype="xml" source-language="en-US" target-language="ta-IN" original="PHOTOVIEWER/STRINGS/EN-US/FILEDETAILSPANE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6920.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="PHOTOVIEWER/STRINGS/EN-US/FILEDETAILSPANE.RESW" datatype="resx">
+        <trans-unit id="ApplicationNameLabel.Text" translate="yes" xml:space="preserve">
+          <source>Software</source>
+          <target state="new">Software</target>
+        </trans-unit>
+        <trans-unit id="AuthorsLabel.Text" translate="yes" xml:space="preserve">
+          <source>Authors</source>
+          <target state="translated">கலைஞர்கள்</target>
+        </trans-unit>
+        <trans-unit id="BitDepthLabel.Text" translate="yes" xml:space="preserve">
+          <source>Bit depth</source>
+          <target state="new">Bit depth</target>
+        </trans-unit>
+        <trans-unit id="ColorSpaceLabel.Text" translate="yes" xml:space="preserve">
+          <source>Color space</source>
+          <target state="new">Color space</target>
+        </trans-unit>
+        <trans-unit id="CompressionLabel.Text" translate="yes" xml:space="preserve">
+          <source>Compression</source>
+          <target state="new">Compression</target>
+        </trans-unit>
+        <trans-unit id="CopyrightLabel.Text" translate="yes" xml:space="preserve">
+          <source>Copyright</source>
+          <target state="translated">பதிப்புரிமை</target>
+        </trans-unit>
+        <trans-unit id="DateTakenLabel.Text" translate="yes" xml:space="preserve">
+          <source>Date Taken</source>
+          <target state="new">Date Taken</target>
+        </trans-unit>
+        <trans-unit id="DeviceLabel.Text" translate="yes" xml:space="preserve">
+          <source>Device</source>
+          <target state="new">Device</target>
+        </trans-unit>
+        <trans-unit id="DimensionsLabel.Text" translate="yes" xml:space="preserve">
+          <source>Dimensions</source>
+          <target state="new">Dimensions</target>
+        </trans-unit>
+        <trans-unit id="DisplayTypeLabel.Text" translate="yes" xml:space="preserve">
+          <source>Display Type</source>
+          <target state="new">Display Type</target>
+        </trans-unit>
+        <trans-unit id="ExposureTimeLabel.Text" translate="yes" xml:space="preserve">
+          <source>Exposure time</source>
+          <target state="new">Exposure time</target>
+        </trans-unit>
+        <trans-unit id="FileExpander.Header" translate="yes" xml:space="preserve">
+          <source>File</source>
+          <target state="new">File</target>
+        </trans-unit>
+        <trans-unit id="FilenameLabel.Text" translate="yes" xml:space="preserve">
+          <source>Filename</source>
+          <target state="translated">கோப்புப் பெயர்</target>
+        </trans-unit>
+        <trans-unit id="FlashLabel.Text" translate="yes" xml:space="preserve">
+          <source>Flash</source>
+          <target state="new">Flash</target>
+        </trans-unit>
+        <trans-unit id="FNumberLabel.Text" translate="yes" xml:space="preserve">
+          <source>FNumber</source>
+          <target state="new">FNumber</target>
+        </trans-unit>
+        <trans-unit id="FocalLengthLabel.Text" translate="yes" xml:space="preserve">
+          <source>Focal length</source>
+          <target state="new">Focal length</target>
+        </trans-unit>
+        <trans-unit id="GPSExpander.Header" translate="yes" xml:space="preserve">
+          <source>GPS</source>
+          <target state="new">GPS</target>
+        </trans-unit>
+        <trans-unit id="ISOLabel.Text" translate="yes" xml:space="preserve">
+          <source>ISO</source>
+          <target state="translated">ISO வேகம்</target>
+        </trans-unit>
+        <trans-unit id="KeywordsLabel.Text" translate="yes" xml:space="preserve">
+          <source>Tags</source>
+          <target state="new">Tags</target>
+        </trans-unit>
+        <trans-unit id="MiscellaneousExpander.Header" translate="yes" xml:space="preserve">
+          <source>Miscellaneous</source>
+          <target state="new">Miscellaneous</target>
+        </trans-unit>
+        <trans-unit id="OpenInMapsButtonLabel.Text" translate="yes" xml:space="preserve">
+          <source>Open Map</source>
+          <target state="new">Open Map</target>
+        </trans-unit>
+        <trans-unit id="PathLabel.Text" translate="yes" xml:space="preserve">
+          <source>Folder</source>
+          <target state="new">Folder</target>
+        </trans-unit>
+        <trans-unit id="PhotoExpander.Header" translate="yes" xml:space="preserve">
+          <source>Photo</source>
+          <target state="new">Photo</target>
+        </trans-unit>
+        <trans-unit id="PhotometricInterpretationLabel.Text" translate="yes" xml:space="preserve">
+          <source>Photometric interpretation</source>
+          <target state="new">Photometric interpretation</target>
+        </trans-unit>
+        <trans-unit id="ProviderLabel.Text" translate="yes" xml:space="preserve">
+          <source>Source</source>
+          <target state="translated">வழங்குநர்</target>
+        </trans-unit>
+        <trans-unit id="RatingLabel.Text" translate="yes" xml:space="preserve">
+          <source>Rating</source>
+          <target state="new">Rating</target>
+        </trans-unit>
+        <trans-unit id="ResolutionLabel.Text" translate="yes" xml:space="preserve">
+          <source>Resolution</source>
+          <target state="new">Resolution</target>
+        </trans-unit>
+        <trans-unit id="SizeLabel.Text" translate="yes" xml:space="preserve">
+          <source>Size</source>
+          <target state="translated">அளவு</target>
+        </trans-unit>
+        <trans-unit id="SubjectLabel.Text" translate="yes" xml:space="preserve">
+          <source>Subject</source>
+          <target state="new">Subject</target>
+        </trans-unit>
+        <trans-unit id="TitleLabel.Text" translate="yes" xml:space="preserve">
+          <source>Title</source>
+          <target state="translated">தலைப்பு</target>
+        </trans-unit>
+        <trans-unit id="DurationLabel.Text" translate="yes" xml:space="preserve">
+          <source>Duration</source>
+          <target state="new">Duration</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+  <file datatype="xml" source-language="en-US" target-language="ta-IN" original="PHOTOVIEWER/STRINGS/EN-US/SETTINGSVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6920.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="PHOTOVIEWER/STRINGS/EN-US/SETTINGSVIEWPAGE.RESW" datatype="resx">
+        <trans-unit id="AboutAppVersionLabel.Text" translate="yes" xml:space="preserve">
+          <source>Version</source>
+          <target state="new">Version</target>
+        </trans-unit>
+        <trans-unit id="AboutContactLabel.Text" translate="yes" xml:space="preserve">
+          <source>Contact</source>
+          <target state="new">Contact</target>
+        </trans-unit>
+        <trans-unit id="AboutExpanderHeader.Text" translate="yes" xml:space="preserve">
+          <source>About</source>
+          <target state="translated">அறிமுகம்</target>
+        </trans-unit>
+        <trans-unit id="AboutReviewLabel.Text" translate="yes" xml:space="preserve">
+          <source>Review</source>
+          <target state="new">Review</target>
+        </trans-unit>
+        <trans-unit id="AboutSourceCodeLabel.Text" translate="yes" xml:space="preserve">
+          <source>Source code</source>
+          <target state="new">Source code</target>
+        </trans-unit>
+        <trans-unit id="AboutSupportTheDevLabel.Text" translate="yes" xml:space="preserve">
+          <source>Support the dev</source>
+          <target state="new">Support the dev</target>
+        </trans-unit>
+        <trans-unit id="AddFolderToLibraryButtonLabel.Text" translate="yes" xml:space="preserve">
+          <source>Add folder</source>
+          <target state="translated">கோப்புறையைச் சேர்</target>
+        </trans-unit>
+        <trans-unit id="AppThemeDark.Text" translate="yes" xml:space="preserve">
+          <source>Dark</source>
+          <target state="translated">இருள்</target>
+        </trans-unit>
+        <trans-unit id="AppThemeDefault.Text" translate="yes" xml:space="preserve">
+          <source>Windows Default</source>
+          <target state="translated">Windows இயல்புநிலை</target>
+        </trans-unit>
+        <trans-unit id="AppThemeLabel.Text" translate="yes" xml:space="preserve">
+          <source>App theme</source>
+          <target state="translated">பயன்பாட்டுக் கருப்பொருள்</target>
+        </trans-unit>
+        <trans-unit id="AppThemeLight.Text" translate="yes" xml:space="preserve">
+          <source>Light</source>
+          <target state="translated">வெளிச்சம்</target>
+        </trans-unit>
+        <trans-unit id="ChangelogLabel.Text" translate="yes" xml:space="preserve">
+          <source>Changelog</source>
+          <target state="new">Changelog</target>
+        </trans-unit>
+        <trans-unit id="CollapseAllButton.[using:Windows.UI.Xaml.Automation]AutomationProperties.Name" translate="yes" xml:space="preserve">
+          <source>Collapse all sections</source>
+          <target state="new">Collapse all sections</target>
+        </trans-unit>
+        <trans-unit id="CollapseAllButtonText.Text" translate="yes" xml:space="preserve">
+          <source>Collapse all</source>
+          <target state="new">Collapse all</target>
+        </trans-unit>
+        <trans-unit id="DisplayDeleteDialogLabel.Text" translate="yes" xml:space="preserve">
+          <source>Display delete confirmation dialog</source>
+          <target state="new">Display delete confirmation dialog</target>
+        </trans-unit>
+        <trans-unit id="DownloadUpdateButton.Content" translate="yes" xml:space="preserve">
+          <source>Download</source>
+          <target state="translated">பதிவிறக்குக</target>
+        </trans-unit>
+        <trans-unit id="DownloadUpdateButton.[using:Windows.UI.Xaml.Automation]AutomationProperties.Name" translate="yes" xml:space="preserve">
+          <source>Download update</source>
+          <target state="new">Download update</target>
+        </trans-unit>
+        <trans-unit id="ExpandAllButton.[using:Windows.UI.Xaml.Automation]AutomationProperties.Name" translate="yes" xml:space="preserve">
+          <source>Expand all sections</source>
+          <target state="new">Expand all sections</target>
+        </trans-unit>
+        <trans-unit id="ExpandAllButtonText.Text" translate="yes" xml:space="preserve">
+          <source>Expand all</source>
+          <target state="new">Expand all</target>
+        </trans-unit>
+        <trans-unit id="GalleryThumbnailAspectRatioLabel.Text" translate="yes" xml:space="preserve">
+          <source>Gallery thumbnail aspect ratio</source>
+          <target state="new">Gallery thumbnail aspect ratio</target>
+        </trans-unit>
+        <trans-unit id="InfoBarUnauthorizedAccessLibrary.Message" translate="yes" xml:space="preserve">
+          <source>Visum is not authorized to access your image library. You can allow in system settings</source>
+          <target state="translated">Visum உங்கள் பட சேகரிப்பை அணுக அங்கீகரிக்கப்படவில்லை. நீங்கள் முறைமை அமைப்புகளில் அனுமதிக்கலாம்</target>
+        </trans-unit>
+        <trans-unit id="InfoBarUnauthorizedAccessLibrary.Title" translate="yes" xml:space="preserve">
+          <source>Visum cannot access your library</source>
+          <target state="new">Visum cannot access your library</target>
+        </trans-unit>
+        <trans-unit id="InfoBarUnauthorizedAccessLibraryHyperlink.Content" translate="yes" xml:space="preserve">
+          <source>Open settings</source>
+          <target state="translated">அமைப்புகளைத் திற</target>
+        </trans-unit>
+        <trans-unit id="InfoBarUpdate.Message" translate="yes" xml:space="preserve">
+          <source>The app will restart when the update completes</source>
+          <target state="new">The app will restart when the update completes</target>
+        </trans-unit>
+        <trans-unit id="InfoBarUpdate.Title" translate="yes" xml:space="preserve">
+          <source>A new version of Visum Photo Viewer is available for download</source>
+          <target state="new">A new version of Visum Photo Viewer is available for download</target>
+        </trans-unit>
+        <trans-unit id="LibrarySectionTitle.Text" translate="yes" xml:space="preserve">
+          <source>Picture Library</source>
+          <target state="translated">படங்கள் நூலகம்</target>
+        </trans-unit>
+        <trans-unit id="MoreAppsExpanderHeader.Text" translate="yes" xml:space="preserve">
+          <source>More apps</source>
+          <target state="translated">மேலும் பயன்பாட்டுக்கள்</target>
+        </trans-unit>
+        <trans-unit id="OpenLibraryFolderButton.[using:Windows.UI.Xaml.Automation]AutomationProperties.Name" translate="yes" xml:space="preserve">
+          <source>Open in File Explorer</source>
+          <target state="translated">கோப்பு உலவியில் திற</target>
+        </trans-unit>
+        <trans-unit id="OpenLibraryFolderButton.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
+          <source>Open in File Explorer</source>
+          <target state="translated">கோப்பு உலவியில் திற</target>
+        </trans-unit>
+        <trans-unit id="OpenLibraryFolderContextMenu.Text" translate="yes" xml:space="preserve">
+          <source>Open in File Explorer</source>
+          <target state="translated">கோப்பு உலவியில் திற</target>
+        </trans-unit>
+        <trans-unit id="OverviewExpanderHeader.Text" translate="yes" xml:space="preserve">
+          <source>Overview</source>
+          <target state="translated">மேல்லோட்டம்</target>
+        </trans-unit>
+        <trans-unit id="PersonalizationExpanderHeader.Text" translate="yes" xml:space="preserve">
+          <source>Personalization</source>
+          <target state="new">Personalization</target>
+        </trans-unit>
+        <trans-unit id="PrivacyLabel.Text" translate="yes" xml:space="preserve">
+          <source>Privacy</source>
+          <target state="translated">தனியுரிமை</target>
+        </trans-unit>
+        <trans-unit id="RemoveFolderFromLibraryButton.[using:Windows.UI.Xaml.Automation]AutomationProperties.Name" translate="yes" xml:space="preserve">
+          <source>Remove this folder from library</source>
+          <target state="translated">நூலகத்திலிருந்து இந்தக் கோப்புறையை அகற்று</target>
+        </trans-unit>
+        <trans-unit id="RemoveFolderFromLibraryButton.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
+          <source>Remove this folder from library</source>
+          <target state="translated">நூலகத்திலிருந்து இந்தக் கோப்புறையை அகற்று</target>
+        </trans-unit>
+        <trans-unit id="RemoveFolderFromLibraryContextMenu.Text" translate="yes" xml:space="preserve">
+          <source>Remove from library</source>
+          <target state="translated">சேகரிப்பிலிருந்து அகற்று</target>
+        </trans-unit>
+        <trans-unit id="TitleBarControl.Title" translate="yes" xml:space="preserve">
+          <source>Settings</source>
+          <target state="translated">அமைப்புகள்</target>
+        </trans-unit>
+        <trans-unit id="WebsiteLabel.Text" translate="yes" xml:space="preserve">
+          <source>Website</source>
+          <target state="translated">வலைதளம்</target>
+        </trans-unit>
+        <trans-unit id="InfoBarSetDefaultApp.Message" translate="yes" xml:space="preserve">
+          <source>You can set Visum as default photo viewer in the system settings</source>
+          <target state="new">You can set Visum as default photo viewer in the system settings</target>
+        </trans-unit>
+        <trans-unit id="InfoBarSetDefaultApp.Title" translate="yes" xml:space="preserve">
+          <source>Set as default app</source>
+          <target state="new">Set as default app</target>
+        </trans-unit>
+        <trans-unit id="InfoBarSetDefaultAppHyperlink.Content" translate="yes" xml:space="preserve">
+          <source>Open settings</source>
+          <target state="translated">அமைப்புகளைத் திற</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+  <file datatype="xml" source-language="en-US" target-language="ta-IN" original="PHOTOVIEWER/STRINGS/EN-US/MEDIAVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6920.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="PHOTOVIEWER/STRINGS/EN-US/MEDIAVIEWPAGE.RESW" datatype="resx">
+        <trans-unit id="ActualSizeMenuFlyout.Text" translate="yes" xml:space="preserve">
+          <source>Actual size</source>
+          <target state="new">Actual size</target>
+        </trans-unit>
+        <trans-unit id="AdjustCommandBar.[using:Windows.UI.Xaml.Automation]AutomationProperties.Name" translate="yes" xml:space="preserve">
+          <source>Adjust image command</source>
+          <target state="new">Adjust image command</target>
+        </trans-unit>
+        <trans-unit id="AdjustMenuFlyout.Text" translate="yes" xml:space="preserve">
+          <source>Adjust image</source>
+          <target state="new">Adjust image</target>
+        </trans-unit>
+        <trans-unit id="CloseButtonCommand.Label" translate="yes" xml:space="preserve">
+          <source>Close</source>
+          <target state="new">Close</target>
+        </trans-unit>
+        <trans-unit id="CloseButtonCommand.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
+          <source>Close details panel</source>
+          <target state="new">Close details panel</target>
+        </trans-unit>
+        <trans-unit id="CopyCommandBar.Label" translate="yes" xml:space="preserve">
+          <source>Copy</source>
+          <target state="translated">நகலெடு</target>
+        </trans-unit>
+        <trans-unit id="CopyMenuFlyout.Text" translate="yes" xml:space="preserve">
+          <source>Copy</source>
+          <target state="translated">நகலெடு</target>
+        </trans-unit>
+        <trans-unit id="CropCommandBar.[using:Windows.UI.Xaml.Automation]AutomationProperties.Name" translate="yes" xml:space="preserve">
+          <source>Crop image command</source>
+          <target state="new">Crop image command</target>
+        </trans-unit>
+        <trans-unit id="CropMenuFlyout.Text" translate="yes" xml:space="preserve">
+          <source>Crop</source>
+          <target state="new">Crop</target>
+        </trans-unit>
+        <trans-unit id="DeleteCommandBar.Label" translate="yes" xml:space="preserve">
+          <source>Delete</source>
+          <target state="translated">நீக்கு</target>
+        </trans-unit>
+        <trans-unit id="DeleteMenuFlyout.Text" translate="yes" xml:space="preserve">
+          <source>Delete</source>
+          <target state="translated">நீக்கு</target>
+        </trans-unit>
+        <trans-unit id="FitImageMenuFlyout.Text" translate="yes" xml:space="preserve">
+          <source>Fit image</source>
+          <target state="new">Fit image</target>
+        </trans-unit>
+        <trans-unit id="MediaDetailsButtonToggle.[using:Windows.UI.Xaml.Automation]AutomationProperties.Name" translate="yes" xml:space="preserve">
+          <source>Open/Close details panel</source>
+          <target state="new">Open/Close details panel</target>
+        </trans-unit>
+        <trans-unit id="MediaDetailsButtonToggle.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
+          <source>Open/Close details panel</source>
+          <target state="new">Open/Close details panel</target>
+        </trans-unit>
+        <trans-unit id="MediaDimensionsLabel.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
+          <source>Dimensions</source>
+          <target state="new">Dimensions</target>
+        </trans-unit>
+        <trans-unit id="MediaSizeLabel.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
+          <source>Size</source>
+          <target state="translated">அளவு</target>
+        </trans-unit>
+        <trans-unit id="OpenInFileExplorerCommandBar.Label" translate="yes" xml:space="preserve">
+          <source>Open in File Explorer</source>
+          <target state="translated">கோப்பு உலவியில் திற</target>
+        </trans-unit>
+        <trans-unit id="OpenInFileExplorerMenuFlyout.Text" translate="yes" xml:space="preserve">
+          <source>Open in File Explorer</source>
+          <target state="translated">கோப்பு உலவியில் திற</target>
+        </trans-unit>
+        <trans-unit id="OpenPropertiesMenuFlyout.Text" translate="yes" xml:space="preserve">
+          <source>Properties</source>
+          <target state="translated">பண்புகள்</target>
+        </trans-unit>
+        <trans-unit id="OpenWithCommandBar.Label" translate="yes" xml:space="preserve">
+          <source>Open with</source>
+          <target state="translated">இதுடன் திற</target>
+        </trans-unit>
+        <trans-unit id="OpenWithMenuFlyout.Text" translate="yes" xml:space="preserve">
+          <source>Open with</source>
+          <target state="translated">இதுடன் திற</target>
+        </trans-unit>
+        <trans-unit id="OptionsButton.[using:Windows.UI.Xaml.Automation]AutomationProperties.Name" translate="yes" xml:space="preserve">
+          <source>Open options</source>
+          <target state="new">Open options</target>
+        </trans-unit>
+        <trans-unit id="OptionsButton.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <target state="new">Options</target>
+        </trans-unit>
+        <trans-unit id="PropertiesCommandBar.Label" translate="yes" xml:space="preserve">
+          <source>Properties</source>
+          <target state="translated">பண்புகள்</target>
+        </trans-unit>
+        <trans-unit id="RenameCommandBar.Label" translate="yes" xml:space="preserve">
+          <source>Rename</source>
+          <target state="translated">மறுபெயரிடு</target>
+        </trans-unit>
+        <trans-unit id="RenameMenuFlyout.Text" translate="yes" xml:space="preserve">
+          <source>Rename</source>
+          <target state="translated">மறுபெயரிடு</target>
+        </trans-unit>
+        <trans-unit id="ResizeCommandBar.[using:Windows.UI.Xaml.Automation]AutomationProperties.Name" translate="yes" xml:space="preserve">
+          <source>Resize image command</source>
+          <target state="new">Resize image command</target>
+        </trans-unit>
+        <trans-unit id="ResizeMenuFlyout.Text" translate="yes" xml:space="preserve">
+          <source>Resize</source>
+          <target state="translated">மறுஅளவாக்கல்</target>
+        </trans-unit>
+        <trans-unit id="RotateToLeftCommandBar.[using:Windows.UI.Xaml.Automation]AutomationProperties.Name" translate="yes" xml:space="preserve">
+          <source>Rotate image to left command</source>
+          <target state="new">Rotate image to left command</target>
+        </trans-unit>
+        <trans-unit id="RotateToLeftCommandBar.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
+          <source>Rotate to left</source>
+          <target state="translated">இடது பக்கம் சுழற்று</target>
+        </trans-unit>
+        <trans-unit id="RotateToLeftMenuFlyout.Text" translate="yes" xml:space="preserve">
+          <source>Rotate to left</source>
+          <target state="translated">இடது பக்கம் சுழற்று</target>
+        </trans-unit>
+        <trans-unit id="RotateToRightCommandBar.[using:Windows.UI.Xaml.Automation]AutomationProperties.Name" translate="yes" xml:space="preserve">
+          <source>Rotate image to right command</source>
+          <target state="new">Rotate image to right command</target>
+        </trans-unit>
+        <trans-unit id="RotateToRightCommandBar.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
+          <source>Rotate to right</source>
+          <target state="translated">வலது பக்கம் சுழற்று</target>
+        </trans-unit>
+        <trans-unit id="RotateToRightMenuFlyout.Text" translate="yes" xml:space="preserve">
+          <source>Rotate to right</source>
+          <target state="translated">வலது பக்கம் சுழற்று</target>
+        </trans-unit>
+        <trans-unit id="SetAsCommandBar.[using:Windows.UI.Xaml.Automation]AutomationProperties.Name" translate="yes" xml:space="preserve">
+          <source>Set image as wallpaper or lockscreen command</source>
+          <target state="new">Set image as wallpaper or lockscreen command</target>
+        </trans-unit>
+        <trans-unit id="SetAsLockScreenMenuFlyout.Text" translate="yes" xml:space="preserve">
+          <source>Lock screen</source>
+          <target state="translated">பூட்டுத்திறை</target>
+        </trans-unit>
+        <trans-unit id="SetAsMenuFlyout.Text" translate="yes" xml:space="preserve">
+          <source>Set image as</source>
+          <target state="translated">படிமத்தை இதாக அமை</target>
+        </trans-unit>
+        <trans-unit id="SetAsWallpaperMenuFlyout.Text" translate="yes" xml:space="preserve">
+          <source>Wallpaper</source>
+          <target state="translated">பின்புலம்</target>
+        </trans-unit>
+        <trans-unit id="ShareCommandBar.Label" translate="yes" xml:space="preserve">
+          <source>Share</source>
+          <target state="translated">பகிர்</target>
+        </trans-unit>
+        <trans-unit id="ShareMenuFlyout.Text" translate="yes" xml:space="preserve">
+          <source>Share</source>
+          <target state="translated">பகிர்</target>
+        </trans-unit>
+        <trans-unit id="ZoomInButton.[using:Windows.UI.Xaml.Automation]AutomationProperties.Name" translate="yes" xml:space="preserve">
+          <source>Zoom in</source>
+          <target state="new">Zoom in</target>
+        </trans-unit>
+        <trans-unit id="ZoomInButton.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
+          <source>Zoom in</source>
+          <target state="new">Zoom in</target>
+        </trans-unit>
+        <trans-unit id="ZoomMenuFlyout.Text" translate="yes" xml:space="preserve">
+          <source>Zoom</source>
+          <target state="new">Zoom</target>
+        </trans-unit>
+        <trans-unit id="ZoomOutButton.[using:Windows.UI.Xaml.Automation]AutomationProperties.Name" translate="yes" xml:space="preserve">
+          <source>Zoom out</source>
+          <target state="new">Zoom out</target>
+        </trans-unit>
+        <trans-unit id="ZoomOutButton.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
+          <source>Zoom out</source>
+          <target state="new">Zoom out</target>
+        </trans-unit>
+        <trans-unit id="ZoomPercentageButton.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
+          <source>Zoom percentage</source>
+          <target state="new">Zoom percentage</target>
+        </trans-unit>
+        <trans-unit id="SaveAsCommand.Label" translate="yes" xml:space="preserve">
+          <source>Save as...</source>
+          <target state="new">Save as...</target>
+        </trans-unit>
+        <trans-unit id="SaveAsMenuFlyout.Text" translate="yes" xml:space="preserve">
+          <source>Save as...</source>
+          <target state="new">Save as...</target>
+        </trans-unit>
+        <trans-unit id="NextItemMenuFlyout.Text" translate="yes" xml:space="preserve">
+          <source>Next</source>
+          <target state="new">Next</target>
+        </trans-unit>
+        <trans-unit id="PreviousItemMenuFlyout.Text" translate="yes" xml:space="preserve">
+          <source>Previous</source>
+          <target state="new">Previous</target>
+        </trans-unit>
+        <trans-unit id="EditMenuFlyout.Text" translate="yes" xml:space="preserve">
+          <source>Edit</source>
+          <target state="new">Edit</target>
+        </trans-unit>
+        <trans-unit id="FileMenuFlyout.Text" translate="yes" xml:space="preserve">
+          <source>File</source>
+          <target state="new">File</target>
+        </trans-unit>
+        <trans-unit id="ViewMenuFlyout.Text" translate="yes" xml:space="preserve">
+          <source>View</source>
+          <target state="new">View</target>
+        </trans-unit>
+        <trans-unit id="FullscreenMenuFlyout.Text" translate="yes" xml:space="preserve">
+          <source>Fullscreen</source>
+          <target state="new">Fullscreen</target>
+        </trans-unit>
+        <trans-unit id="PropertiesPanelPlacementLeftMenuFlyout.Text" translate="yes" xml:space="preserve">
+          <source>Left</source>
+          <target state="new">Left</target>
+        </trans-unit>
+        <trans-unit id="PropertiesPanelPlacementMenuFlyout.Text" translate="yes" xml:space="preserve">
+          <source>Properties placement</source>
+          <target state="new">Properties placement</target>
+        </trans-unit>
+        <trans-unit id="PropertiesPanelPlacementRightMenuFlyout.Text" translate="yes" xml:space="preserve">
+          <source>Right</source>
+          <target state="new">Right</target>
+        </trans-unit>
+        <trans-unit id="StatusBarMenuFlyout.Text" translate="yes" xml:space="preserve">
+          <source>Status bar</source>
+          <target state="new">Status bar</target>
+        </trans-unit>
+        <trans-unit id="EditMenuBar.Title" translate="yes" xml:space="preserve">
+          <source>Edit</source>
+          <target state="new">Edit</target>
+        </trans-unit>
+        <trans-unit id="FileMenuBar.Title" translate="yes" xml:space="preserve">
+          <source>File</source>
+          <target state="new">File</target>
+        </trans-unit>
+        <trans-unit id="ViewMenuBar.Title" translate="yes" xml:space="preserve">
+          <source>View</source>
+          <target state="new">View</target>
+        </trans-unit>
+        <trans-unit id="MoreMenuBar.Title" translate="yes" xml:space="preserve">
+          <source>More</source>
+          <target state="new">More</target>
+        </trans-unit>
+        <trans-unit id="AddSubtitleMenuFlyout.Text" translate="yes" xml:space="preserve">
+          <source>Add subtitle</source>
+          <target state="new">Add subtitle</target>
+        </trans-unit>
+        <trans-unit id="AdjustCommandBar.Label" translate="yes" xml:space="preserve">
+          <source>Adjust image</source>
+          <target state="new">Adjust image</target>
+        </trans-unit>
+        <trans-unit id="CropCommandBar.Label" translate="yes" xml:space="preserve">
+          <source>Crop</source>
+          <target state="new">Crop</target>
+        </trans-unit>
+        <trans-unit id="ResizeCommandBar.Label" translate="yes" xml:space="preserve">
+          <source>Resize</source>
+          <target state="new">Resize</target>
+        </trans-unit>
+        <trans-unit id="SetAsCommandBar.Label" translate="yes" xml:space="preserve">
+          <source>Set image as</source>
+          <target state="new">Set image as</target>
+        </trans-unit>
+        <trans-unit id="ShareCommandBar.[using:Windows.UI.Xaml.Automation]AutomationProperties.Name" translate="yes" xml:space="preserve">
+          <source>Open share menu</source>
+          <target state="new">Open share menu</target>
+        </trans-unit>
+        <trans-unit id="ShareCommandBar.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
+          <source>Share</source>
+          <target state="new">Share</target>
+        </trans-unit>
+        <trans-unit id="PrintMenuFlyout.Text" translate="yes" xml:space="preserve">
+          <source>Print</source>
+          <target state="new">Print</target>
+        </trans-unit>
+        <trans-unit id="PrintCommandBar.Label" translate="yes" xml:space="preserve">
+          <source>Print</source>
+          <target state="new">Print</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+  <file datatype="xml" source-language="en-US" target-language="ta-IN" original="PHOTOVIEWER/STRINGS/EN-US/FILETYPES.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6920.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="PHOTOVIEWER/STRINGS/EN-US/FILETYPES.RESW" datatype="resx">
+        <trans-unit id="WebpDisplayName" translate="yes" xml:space="preserve">
+          <source>WEBP Image</source>
+          <target state="new">WEBP Image</target>
+        </trans-unit>
+        <trans-unit id="BmpDisplayName" translate="yes" xml:space="preserve">
+          <source>Bitmap Image</source>
+          <target state="new">Bitmap Image</target>
+        </trans-unit>
+        <trans-unit id="CurDisplayName" translate="yes" xml:space="preserve">
+          <source>Cursor File</source>
+          <target state="new">Cursor File</target>
+        </trans-unit>
+        <trans-unit id="DdsDisplayName" translate="yes" xml:space="preserve">
+          <source>DirectDraw Surface (DDS)</source>
+          <target state="new">DirectDraw Surface (DDS)</target>
+        </trans-unit>
+        <trans-unit id="DngDisplayName" translate="yes" xml:space="preserve">
+          <source>Digital Negative File (DNG)</source>
+          <target state="new">Digital Negative File (DNG)</target>
+        </trans-unit>
+        <trans-unit id="GifDisplayName" translate="yes" xml:space="preserve">
+          <source>GIF File</source>
+          <target state="new">GIF File</target>
+        </trans-unit>
+        <trans-unit id="HeicDisplayName" translate="yes" xml:space="preserve">
+          <source>HEIF Image</source>
+          <target state="new">HEIF Image</target>
+        </trans-unit>
+        <trans-unit id="JpgDisplayName" translate="yes" xml:space="preserve">
+          <source>JPG Image</source>
+          <target state="new">JPG Image</target>
+        </trans-unit>
+        <trans-unit id="PngDisplayName" translate="yes" xml:space="preserve">
+          <source>PNG Image</source>
+          <target state="new">PNG Image</target>
+        </trans-unit>
+        <trans-unit id="RawDisplayName" translate="yes" xml:space="preserve">
+          <source>RAW File</source>
+          <target state="new">RAW File</target>
+        </trans-unit>
+        <trans-unit id="TiffDisplayName" translate="yes" xml:space="preserve">
+          <source>TIF Image</source>
+          <target state="new">TIF Image</target>
+        </trans-unit>
+        <trans-unit id="WdpDisplayName" translate="yes" xml:space="preserve">
+          <source>Windows Media Photo</source>
+          <target state="new">Windows Media Photo</target>
+        </trans-unit>
+        <trans-unit id="IcoDisplayName" translate="yes" xml:space="preserve">
+          <source>Icon File</source>
+          <target state="new">Icon File</target>
+        </trans-unit>
+        <trans-unit id="3gpDisplayName" translate="yes" xml:space="preserve">
+          <source>3GP Video</source>
+          <target state="new">3GP Video</target>
+        </trans-unit>
+        <trans-unit id="AsfDisplayName" translate="yes" xml:space="preserve">
+          <source>ASF Video</source>
+          <target state="new">ASF Video</target>
+        </trans-unit>
+        <trans-unit id="AviDisplayName" translate="yes" xml:space="preserve">
+          <source>AVI Video</source>
+          <target state="new">AVI Video</target>
+        </trans-unit>
+        <trans-unit id="M2tsDisplayName" translate="yes" xml:space="preserve">
+          <source>M2TS Video</source>
+          <target state="new">M2TS Video</target>
+        </trans-unit>
+        <trans-unit id="M4vDisplayName" translate="yes" xml:space="preserve">
+          <source>M4V Video</source>
+          <target state="new">M4V Video</target>
+        </trans-unit>
+        <trans-unit id="MkvDisplayName" translate="yes" xml:space="preserve">
+          <source>MKV Video</source>
+          <target state="new">MKV Video</target>
+        </trans-unit>
+        <trans-unit id="MovDisplayName" translate="yes" xml:space="preserve">
+          <source>MOV Video</source>
+          <target state="new">MOV Video</target>
+        </trans-unit>
+        <trans-unit id="Mp4DisplayName" translate="yes" xml:space="preserve">
+          <source>MP4 Video</source>
+          <target state="new">MP4 Video</target>
+        </trans-unit>
+        <trans-unit id="MtsDisplayName" translate="yes" xml:space="preserve">
+          <source>MTS Video</source>
+          <target state="new">MTS Video</target>
+        </trans-unit>
+        <trans-unit id="OgvDisplayName" translate="yes" xml:space="preserve">
+          <source>OGG Video</source>
+          <target state="new">OGG Video</target>
+        </trans-unit>
+        <trans-unit id="TsDisplayName" translate="yes" xml:space="preserve">
+          <source>TS Video</source>
+          <target state="new">TS Video</target>
+        </trans-unit>
+        <trans-unit id="WebmDisplayName" translate="yes" xml:space="preserve">
+          <source>WEBM Video</source>
+          <target state="new">WEBM Video</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
