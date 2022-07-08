@@ -9,7 +9,7 @@ This repository contains the translations for the [Visum Photo Viewer](https://v
 4. [Request a pull request](\#pull-request)
 
 ### Progress
-| Code  | Language | Cool |
+| Code  | Language | Progress |
 |------ |:--------:|-----:|
 |en-US  | English | base language |
 | de-DE | Deutsch | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/53)
