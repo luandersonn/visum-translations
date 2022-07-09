@@ -11,10 +11,10 @@ This repository contains the translations for the [Visum Photo Viewer](https://v
 ### Progress
 | Code  | Language | Progress |
 |------ |:--------:|-----:|
-|en-US  | English | base language |
+| en-US | English | base language |
 | de-DE | Deutsch | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/53)
 | fr-FR | Français | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/53)
 | pt-BR | Português | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) |
-| it-IT | Italiano | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) |
+| ta-IN | தமிழ் | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/40) |
 | uk-UA | Українська | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/98) |
 | zh-CN | 中文 | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/86) |
