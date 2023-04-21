@@ -425,7 +425,7 @@
         </trans-unit>
         <trans-unit id="FileExpander.Header" translate="yes" xml:space="preserve">
           <source>File</source>
-          <target state="translated">FilE</target>
+          <target state="translated">File</target>
         </trans-unit>
         <trans-unit id="FilenameLabel.Text" translate="yes" xml:space="preserve">
           <source>Filename</source>
@@ -776,7 +776,7 @@
         </trans-unit>
         <trans-unit id="FileMenuFlyout.Text" translate="yes" xml:space="preserve">
           <source>File</source>
-          <target state="translated">FilE</target>
+          <target state="translated">File</target>
         </trans-unit>
         <trans-unit id="ViewMenuFlyout.Text" translate="yes" xml:space="preserve">
           <source>View</source>
@@ -808,7 +808,7 @@
         </trans-unit>
         <trans-unit id="FileMenuBar.Title" translate="yes" xml:space="preserve">
           <source>File</source>
-          <target state="translated">FilE</target>
+          <target state="translated">File</target>
         </trans-unit>
         <trans-unit id="ViewMenuBar.Title" translate="yes" xml:space="preserve">
           <source>View</source>
