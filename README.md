@@ -16,6 +16,7 @@ This repository contains the translations for the [Visum Photo Viewer](https://v
 | fr-FR | French | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/53)
 | pt-BR | Portuguese | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) |
 | ta-IN | Tamil | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/40) |
+| fa-IR | Farsi | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/53) |
 | it-IT | Italian | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) |
 | uk-UA | Ukrainian | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/98) |
 | zh-CN | Chinese | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/86) |

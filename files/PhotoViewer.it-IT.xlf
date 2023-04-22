@@ -335,7 +335,7 @@
         </trans-unit>
         <trans-unit id="DragAndDropMessage.Text" translate="yes" xml:space="preserve">
           <source>Drag and drop folders and files here</source>
-          <target state="translated">Trascina e rilascia qui cartelle e file </target>
+          <target state="translated">Trascina e rilascia qui cartelle e file</target>
         </trans-unit>
         <trans-unit id="ReplaceOriginalMenuFlyout.Text" translate="yes" xml:space="preserve">
           <source>Replace original</source>
@@ -349,7 +349,7 @@
         </trans-unit>
         <trans-unit id="SaveAsMenuFlyout.Text" translate="yes" xml:space="preserve">
           <source>Save as...</source>
-          <target state="translated">Salva come...</target>
+          <target state="translated">Salva con nome…</target>
           <note from="MultilingualBuild" annotates="source" priority="2">"Save as..." button text</note>
         </trans-unit>
         <trans-unit id="SaveButton.[using:Windows.UI.Xaml.Automation]AutomationProperties.Name" translate="yes" xml:space="preserve">
@@ -756,11 +756,11 @@
         </trans-unit>
         <trans-unit id="SaveAsCommand.Label" translate="yes" xml:space="preserve">
           <source>Save as...</source>
-          <target state="translated">Salva come</target>
+          <target state="translated">Salva con nome…</target>
         </trans-unit>
         <trans-unit id="SaveAsMenuFlyout.Text" translate="yes" xml:space="preserve">
           <source>Save as...</source>
-          <target state="translated">Salva come</target>
+          <target state="translated">Salva con nome…</target>
         </trans-unit>
         <trans-unit id="NextItemMenuFlyout.Text" translate="yes" xml:space="preserve">
           <source>Next</source>
@@ -1083,7 +1083,7 @@
         </trans-unit>
         <trans-unit id="M2tsDisplayName" translate="yes" xml:space="preserve">
           <source>M2TS Video</source>
-          <target state="translated">Video M2TS </target>
+          <target state="translated">Video M2TS</target>
         </trans-unit>
         <trans-unit id="M4vDisplayName" translate="yes" xml:space="preserve">
           <source>M4V Video</source>
