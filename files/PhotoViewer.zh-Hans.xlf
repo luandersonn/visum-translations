@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" source-language="en-US" target-language="zh-Hans" original="PHOTOVIEWER/STRINGS/EN-US/ERRORMESSAGES.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6920.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6920.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="PHOTOVIEWER/STRINGS/EN-US/ERRORMESSAGES.RESW" datatype="resx">
@@ -62,11 +62,11 @@
         </trans-unit>
         <trans-unit id="PrintServiceNotAvailableMessage" translate="yes" xml:space="preserve">
           <source>The print service failed to print, please try again later or restart the app</source>
-          <target state="new">The print service failed to print, please try again later or restart the app</target>
+          <target state="translated">打印失败，请重启软件或稍后再试</target>
         </trans-unit>
         <trans-unit id="PrintServiceNotAvailableTitle" translate="yes" xml:space="preserve">
           <source>Print service is not available</source>
-          <target state="new">Print service is not available</target>
+          <target state="translated">打印服务不可用</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Error message (title)</note>
         </trans-unit>
       </group>
@@ -74,7 +74,7 @@
   </file>
   <file datatype="xml" source-language="en-US" target-language="zh-Hans" original="PHOTOVIEWER/STRINGS/EN-US/DIALOGS.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6920.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6920.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="PHOTOVIEWER/STRINGS/EN-US/DIALOGS.RESW" datatype="resx">
@@ -107,7 +107,7 @@
   </file>
   <file datatype="xml" source-language="en-US" target-language="zh-Hans" original="PHOTOVIEWER/STRINGS/EN-US/MEDIAVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6920.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6920.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="PHOTOVIEWER/STRINGS/EN-US/MEDIAVIEWPAGE.RESW" datatype="resx">
@@ -361,7 +361,7 @@
         </trans-unit>
         <trans-unit id="AddSubtitleMenuFlyout.Text" translate="yes" xml:space="preserve">
           <source>Add subtitle</source>
-          <target state="new">Add subtitle</target>
+          <target state="translated">添加标题</target>
         </trans-unit>
         <trans-unit id="AdjustCommandBar.Label" translate="yes" xml:space="preserve">
           <source>Adjust image</source>
@@ -381,7 +381,7 @@
         </trans-unit>
         <trans-unit id="ShareCommandBar.[using:Windows.UI.Xaml.Automation]AutomationProperties.Name" translate="yes" xml:space="preserve">
           <source>Open share menu</source>
-          <target state="new">Open share menu</target>
+          <target state="translated">打开分享菜单</target>
         </trans-unit>
         <trans-unit id="ShareCommandBar.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
           <source>Share</source>
@@ -389,18 +389,18 @@
         </trans-unit>
         <trans-unit id="PrintMenuFlyout.Text" translate="yes" xml:space="preserve">
           <source>Print</source>
-          <target state="new">Print</target>
+          <target state="translated">打印</target>
         </trans-unit>
         <trans-unit id="PrintCommandBar.Label" translate="yes" xml:space="preserve">
           <source>Print</source>
-          <target state="new">Print</target>
+          <target state="translated">打印</target>
         </trans-unit>
       </group>
     </body>
   </file>
   <file datatype="xml" source-language="en-US" target-language="zh-Hans" original="PHOTOVIEWER/STRINGS/EN-US/IMAGEEDITORVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6920.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6920.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="PHOTOVIEWER/STRINGS/EN-US/IMAGEEDITORVIEWPAGE.RESW" datatype="resx">
@@ -473,7 +473,7 @@
   </file>
   <file datatype="xml" source-language="en-US" target-language="zh-Hans" original="PHOTOVIEWER/STRINGS/EN-US/CROPIMAGEVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6920.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6920.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="PHOTOVIEWER/STRINGS/EN-US/CROPIMAGEVIEWPAGE.RESW" datatype="resx">
@@ -532,7 +532,7 @@
   </file>
   <file datatype="xml" source-language="en-US" target-language="zh-Hans" original="PHOTOVIEWER/STRINGS/EN-US/GALLERYVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6920.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6920.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="PHOTOVIEWER/STRINGS/EN-US/GALLERYVIEWPAGE.RESW" datatype="resx">
@@ -590,7 +590,7 @@
   </file>
   <file datatype="xml" source-language="en-US" target-language="zh-Hans" original="PHOTOVIEWER/STRINGS/EN-US/RESIZEIMAGEVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6920.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6920.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="PHOTOVIEWER/STRINGS/EN-US/RESIZEIMAGEVIEWPAGE.RESW" datatype="resx">
@@ -639,7 +639,7 @@
   </file>
   <file datatype="xml" source-language="en-US" target-language="zh-Hans" original="PHOTOVIEWER/STRINGS/EN-US/RESOURCES.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6920.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6920.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="PHOTOVIEWER/STRINGS/EN-US/RESOURCES.RESW" datatype="resx">
@@ -707,7 +707,7 @@
   </file>
   <file datatype="xml" source-language="en-US" target-language="zh-Hans" original="PHOTOVIEWER/STRINGS/EN-US/FILEDETAILSPANE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6920.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6920.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="PHOTOVIEWER/STRINGS/EN-US/FILEDETAILSPANE.RESW" datatype="resx">
@@ -833,14 +833,14 @@
         </trans-unit>
         <trans-unit id="DurationLabel.Text" translate="yes" xml:space="preserve">
           <source>Duration</source>
-          <target state="new">Duration</target>
+          <target state="translated">持续时间</target>
         </trans-unit>
       </group>
     </body>
   </file>
   <file datatype="xml" source-language="en-US" target-language="zh-Hans" original="PHOTOVIEWER/STRINGS/EN-US/SETTINGSVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6920.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6920.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="PHOTOVIEWER/STRINGS/EN-US/SETTINGSVIEWPAGE.RESW" datatype="resx">
@@ -878,7 +878,7 @@
         </trans-unit>
         <trans-unit id="AppThemeDefault.Text" translate="yes" xml:space="preserve">
           <source>Windows Default</source>
-          <target state="translated">Windows默认</target>
+          <target state="translated">跟随Windows</target>
         </trans-unit>
         <trans-unit id="AppThemeLabel.Text" translate="yes" xml:space="preserve">
           <source>App theme</source>
@@ -1013,109 +1013,109 @@
   </file>
   <file datatype="xml" source-language="en-US" target-language="zh-Hans" original="PHOTOVIEWER/STRINGS/EN-US/FILETYPES.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6920.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6920.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="PHOTOVIEWER/STRINGS/EN-US/FILETYPES.RESW" datatype="resx">
         <trans-unit id="WebpDisplayName" translate="yes" xml:space="preserve">
           <source>WEBP Image</source>
-          <target state="new">WEBP Image</target>
+          <target state="translated">WEBP Image</target>
         </trans-unit>
         <trans-unit id="BmpDisplayName" translate="yes" xml:space="preserve">
           <source>Bitmap Image</source>
-          <target state="new">Bitmap Image</target>
+          <target state="translated">Bitmap Image</target>
         </trans-unit>
         <trans-unit id="CurDisplayName" translate="yes" xml:space="preserve">
           <source>Cursor File</source>
-          <target state="new">Cursor File</target>
+          <target state="translated">Cursor File</target>
         </trans-unit>
         <trans-unit id="DdsDisplayName" translate="yes" xml:space="preserve">
           <source>DirectDraw Surface (DDS)</source>
-          <target state="new">DirectDraw Surface (DDS)</target>
+          <target state="translated">DirectDraw Surface (DDS)</target>
         </trans-unit>
         <trans-unit id="DngDisplayName" translate="yes" xml:space="preserve">
           <source>Digital Negative File (DNG)</source>
-          <target state="new">Digital Negative File (DNG)</target>
+          <target state="translated">Digital Negative File (DNG)</target>
         </trans-unit>
         <trans-unit id="GifDisplayName" translate="yes" xml:space="preserve">
           <source>GIF File</source>
-          <target state="new">GIF File</target>
+          <target state="translated">GIF File</target>
         </trans-unit>
         <trans-unit id="HeicDisplayName" translate="yes" xml:space="preserve">
           <source>HEIF Image</source>
-          <target state="new">HEIF Image</target>
+          <target state="translated">HEIF Image</target>
         </trans-unit>
         <trans-unit id="JpgDisplayName" translate="yes" xml:space="preserve">
           <source>JPG Image</source>
-          <target state="new">JPG Image</target>
+          <target state="translated">JPG Image</target>
         </trans-unit>
         <trans-unit id="PngDisplayName" translate="yes" xml:space="preserve">
           <source>PNG Image</source>
-          <target state="new">PNG Image</target>
+          <target state="translated">PNG Image</target>
         </trans-unit>
         <trans-unit id="RawDisplayName" translate="yes" xml:space="preserve">
           <source>RAW File</source>
-          <target state="new">RAW File</target>
+          <target state="translated">RAW File</target>
         </trans-unit>
         <trans-unit id="TiffDisplayName" translate="yes" xml:space="preserve">
           <source>TIF Image</source>
-          <target state="new">TIF Image</target>
+          <target state="translated">TIF Image</target>
         </trans-unit>
         <trans-unit id="WdpDisplayName" translate="yes" xml:space="preserve">
           <source>Windows Media Photo</source>
-          <target state="new">Windows Media Photo</target>
+          <target state="translated">Windows Media Photo</target>
         </trans-unit>
         <trans-unit id="IcoDisplayName" translate="yes" xml:space="preserve">
           <source>Icon File</source>
-          <target state="new">Icon File</target>
+          <target state="translated">Icon File</target>
         </trans-unit>
         <trans-unit id="3gpDisplayName" translate="yes" xml:space="preserve">
           <source>3GP Video</source>
-          <target state="new">3GP Video</target>
+          <target state="translated">3GP Video</target>
         </trans-unit>
         <trans-unit id="AsfDisplayName" translate="yes" xml:space="preserve">
           <source>ASF Video</source>
-          <target state="new">ASF Video</target>
+          <target state="translated">ASF Video</target>
         </trans-unit>
         <trans-unit id="AviDisplayName" translate="yes" xml:space="preserve">
           <source>AVI Video</source>
-          <target state="new">AVI Video</target>
+          <target state="translated">AVI Video</target>
         </trans-unit>
         <trans-unit id="M2tsDisplayName" translate="yes" xml:space="preserve">
           <source>M2TS Video</source>
-          <target state="new">M2TS Video</target>
+          <target state="translated">M2TS Video</target>
         </trans-unit>
         <trans-unit id="M4vDisplayName" translate="yes" xml:space="preserve">
           <source>M4V Video</source>
-          <target state="new">M4V Video</target>
+          <target state="translated">M4V Video</target>
         </trans-unit>
         <trans-unit id="MkvDisplayName" translate="yes" xml:space="preserve">
           <source>MKV Video</source>
-          <target state="new">MKV Video</target>
+          <target state="translated">MKV Video</target>
         </trans-unit>
         <trans-unit id="MovDisplayName" translate="yes" xml:space="preserve">
           <source>MOV Video</source>
-          <target state="new">MOV Video</target>
+          <target state="translated">MOV Video</target>
         </trans-unit>
         <trans-unit id="Mp4DisplayName" translate="yes" xml:space="preserve">
           <source>MP4 Video</source>
-          <target state="new">MP4 Video</target>
+          <target state="translated">MP4 Video</target>
         </trans-unit>
         <trans-unit id="MtsDisplayName" translate="yes" xml:space="preserve">
           <source>MTS Video</source>
-          <target state="new">MTS Video</target>
+          <target state="translated">MTS Video</target>
         </trans-unit>
         <trans-unit id="OgvDisplayName" translate="yes" xml:space="preserve">
           <source>OGG Video</source>
-          <target state="new">OGG Video</target>
+          <target state="translated">OGG Video</target>
         </trans-unit>
         <trans-unit id="TsDisplayName" translate="yes" xml:space="preserve">
           <source>TS Video</source>
-          <target state="new">TS Video</target>
+          <target state="translated">TS Video</target>
         </trans-unit>
         <trans-unit id="WebmDisplayName" translate="yes" xml:space="preserve">
           <source>WEBM Video</source>
-          <target state="new">WEBM Video</target>
+          <target state="translated">WEBM Video</target>
         </trans-unit>
       </group>
     </body>
